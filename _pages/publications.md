@@ -6,8 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-You can find the complete publication list on <a href="https://scholar.google.be/citations?user=OsiAwIYAAAAJ&hl=en&citsig=AMstHGQQx0uqfgCvrTEny2ghp98R3FtD5Q">
-<span style="color:gray">my Google Scholar profile</span></a>.
+This project will start on January 2021. Here the most relevant publications of each research group are listed.
 
 
 <ul>
@@ -25,10 +24,4 @@ You can find the complete publication list on <a href="https://scholar.google.be
   {% endif %}
   {% if forloop.last %}</ul>{% endif %}
 
-{% endfor %}
-
-
-<h2><span style="color:gray"> Bookchapters </span></h2>
-{% for post in site.bookchapters reversed %}
-  {% include archive-single-pub.html %}
 {% endfor %}

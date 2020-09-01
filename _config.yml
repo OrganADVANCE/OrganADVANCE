@@ -79,7 +79,7 @@ author:
   bio              : ""
   location         : "KU Leuven, Belgium"
   employer         :
-  googlescholar    : 
+  googlescholar    :
   email            : "susana.rocha@kuleuven.be"
   uri              :
   bitbucket        :
@@ -88,13 +88,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
-  orcid            : 
+  linkedin         :
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -167,40 +167,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  bookchapters:
-    output: true
-    permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
   team:
     output: true
     permalink: /:collection/:path/
   news:
-    output: true
-    permalink: /:collection/:path/
-  techniques:
-    output: true
-    permalink: /:collection/:path/
-  outreach:
-    output: true
-    permalink: /:collection/:path/
-  maintech:
-    output: true
-    permalink: /:collection/:path/
-  mainoutreach:
-    output: true
-    permalink: /:collection/:path/
-  gallery:
     output: true
     permalink: /:collection/:path/
   contact:
@@ -228,29 +201,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
   # _publications
   - scope:
       path: ""
       type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
-
-  # _bookchapters
-  - scope:
-      path: ""
-      type: bookchapters
     values:
       layout: single
       author_profile: true
@@ -267,16 +221,6 @@ defaults:
       share: false
       comments: true
 
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: talk
-      author_profile: false
-      share: false
-      comment: true
-
   # _team
   - scope:
       path: ""
@@ -287,55 +231,6 @@ defaults:
       share: false
       comment: true
 
-  # _outreach
-  - scope:
-      path: ""
-      type: outreach
-    values:
-      layout: talk
-      author_profile: false
-      share: false
-      comment: true
-
-  # _maintech
-  - scope:
-      path: ""
-      type: maintech
-    values:
-      layout: talk
-      author_profile: false
-      share: false
-      comment: true
-
-  # _mainoutreach
-  - scope:
-      path: ""
-      type: mainoutreach
-    values:
-      layout: talk
-      author_profile: false
-      share: false
-      comment: true
-
-  # _techniques
-  - scope:
-      path: ""
-      type: techniques
-    values:
-      layout: talk
-      author_profile: false
-      share: false
-      comment: true
-
-  # _gallery
-  - scope:
-      path: ""
-      type: gallery
-    values:
-      layout: talk
-      author_profile: true
-      share: false
-      comment: true
 
   # _contact
   - scope:
