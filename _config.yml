@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rocha Lab"
+title                    : "OrganADVANCE"
 title2                    : "Start page"
 title_separator          : "-"
-name                     : &name "Susana Rocha's Lab"
-description              : &description "enthusiastic researcher"
-url                      : https://susanarocha.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "OrganADVANCE"
+description              : &description "ADVANCED ORGANOID ASSAYS FOR MODELLING HUMAN DISEASE"
+url                      : https://OrganADVANCE.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "susanarocha/susanarocha.github.io"
+repository               : "OrganADVANCE/OrganADVANCE.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,7 +79,7 @@ author:
   bio              : ""
   location         : "KU Leuven, Belgium"
   employer         :
-  googlescholar    : "https://scholar.google.be/citations?user=OsiAwIYAAAAJ&hl=en&citsig=AMstHGQQx0uqfgCvrTEny2ghp98R3FtD5Q"
+  googlescholar    : 
   email            : "susana.rocha@kuleuven.be"
   uri              :
   bitbucket        :
@@ -88,13 +88,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "susanarocha"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "susana-rocha-50020622"
-  orcid            : "https://orcid.org/0000-0003-1258-9396"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
