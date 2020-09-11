@@ -14,9 +14,9 @@ website: 'susanarocha.github.io'
 
 <p align= "justify">
 <h2> Expertise </h2>
-* Synthetic hydrogels for 3D cultures
-* Nanoparticle-mediated delivery
-* Fluorescence labelling and microscopy
+* Synthetic hydrogels for 3D cultures<br>
+* Nanoparticle-mediated delivery<br>
+* Fluorescence labelling and microscopy<br>
 
 
 <p align= "justify">

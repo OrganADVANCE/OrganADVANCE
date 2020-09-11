@@ -13,9 +13,9 @@ email: 'hugo.vankelecom@kuleuven.be'
 
 <p align= "justify">
 <h2> Expertise </h2>
-* Developing organoid models
-* Developing complex organoid models and organoid-based tissue mimics
-* Applying organoid models (e.g. tissue biology and pathology; drug and toxicity screening)
+* Developing organoid models <br>
+* Developing complex organoid models and organoid-based tissue mimics<br>
+* Applying organoid models (e.g. tissue biology and pathology; drug and toxicity screening)<br>
 
 <h2> Relevant Publications </h2>
 {% for post in site.publications reversed %}
