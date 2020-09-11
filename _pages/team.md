@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-We are always looking for talented and enthusiastic masters, PhD students and post-doctoral researchers. <br> Please contact Prof. Rocha (<a href="mailto:{{ author.email }}"><span style="color:gray">email</span>) for inquiries.
+We are searching for talented and enthusiastic PhD students to join us! <br> 
 <br>
 <hr-bold>
 <h2>Consortium</h2>
