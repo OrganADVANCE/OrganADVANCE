@@ -40,7 +40,7 @@ layout: default
         {% endif %}
 
         {% if page.collection == 'team' %}
-          {% if page.title == 'Susana Rocha' %}
+          {% if page.subcollection == 'PI' %}
 
           <hr-bold>
           <br>
@@ -49,15 +49,17 @@ layout: default
           </div>
 
             <p>
-              <i> Assistant Professor </i>
+              <i> Research Partner </i>
+              <br>
+              {% if page.website %}
+              <br><b><a href=""{{ page.website }}" style="color:black; text-decoration: none">visit group website </a></b>
+                {% endif %}
 
               {% if page.email %}
               <br><a href="mailto:{{ page.email }}" style="color:gray; text-decoration: none">email {{ page.title }}</a>
                 {% endif %}
+
               <br>
-              <a href="http://susanarocha.github.io/files/CV.pdf">CV Sep2018</a>
-              <h3>Biosketch</h3>
-            Written on {{ page.date | default: "1900-01-01" | date: "%B, %Y" }}
 
             </p>
 
@@ -107,7 +109,7 @@ layout: default
         {% elsif page.paperurl %}
           <cite>(see publication in <a href="{{ post.paperurl }}"> Journal</a>
             {% if page.rgate %}
-            or in <a href="{{ post.rgate }}"> Research Gate</a>  
+            or in <a href="{{ post.rgate }}"> Research Gate</a>
             {% endif %}
             ) </cite>
         {% endif %}
