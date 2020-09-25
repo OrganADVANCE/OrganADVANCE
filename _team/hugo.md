@@ -5,8 +5,8 @@ subcollection: PI
 header:
   teaser: Hugo2020.png
 tags: PI
-tagline: Cluster of Stem Cell and Developmental Biology (SCDB)
-date: 2019-02-01
+tagline: Cluster of Stem Cell and Developmental Biology
+date: 2019-03-01
 email: 'hugo.vankelecom@kuleuven.be'
 ---
 

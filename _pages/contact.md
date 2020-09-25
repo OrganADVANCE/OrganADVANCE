@@ -5,7 +5,16 @@ permalink: /contact/
 author_profile: true
 ---
 
-<h2> Address information </h2>
+<h2> Address information - Department of Pharmaceutical and Pharmacological Sciences </h2>
+Molecular Virology and Gene Therapy <br>
+Herestraat 49<br>
+B-3001 Leuven<br>
+Belgium <br>
+&#128222; +32(0)16 374044
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.3706006591246!2d4.670310515747!3d50.879850879536896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c160fc2d6d9e29%3A0xaf2df23df41cbc0a!2sO%26N%201%2C%20Herestraat%2049%2C%203001%20Leuven!5e0!3m2!1sen!2sbe!4v1601069337361!5m2!1sen!2sbe" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+<h2> Address information - Chemistry Department</h2>
 Leuven Chem&Tech | Leuven Nanocentre <br>
 Celestijnenlaan 200F<br>
 B-3001 Leuven<br>
