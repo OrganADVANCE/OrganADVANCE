@@ -5,8 +5,15 @@ permalink: /team/
 author_profile: true
 ---
 
-We are searching for talented and enthusiastic PhD students to join us! <br> 
+<figure style="width: 10%" class="align-left">
+<img src='/images/you.png'>
+</figure>
+We are searching for talented and enthusiastic PhD students to join us! <br>
 <br>
+<b> Interested?</b> More information in<br>
+<a href="https://www.kuleuven.be/personeel/jobsite/jobs/55919836"><i>PhD project #1: </i>Making Cells Feel At Home: Matrix And Culture Medium Optimization For Organoids</a><br>
+<a href="https://www.kuleuven.be/personeel/jobsite/jobs/55904969"><i>PhD project #2: </i>Gene Transfer in Human Organoid Cultures for Non-Invasive Imaging of Biological Processes</a>
+
 <hr-bold>
 <h2>Consortium</h2>
 <hr><br>
@@ -33,3 +40,5 @@ We are searching for talented and enthusiastic PhD students to join us! <br>
   {% endfor %}
 </div>
 </div>
+
+<i> Waiting for applications...</i>
